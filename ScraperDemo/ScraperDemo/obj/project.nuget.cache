@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZtJVwULxpP9h1eHZSlSmr91UHeqQtB62VKn0w3DXUFni6wKqR7SoM4gni/Rao6J97RXn5bxr//HbRQRLiqAHLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\MyProjects\\scrapper\\ScraperDemo\\ScraperDemo\\ScraperDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\htmlagilitypack\\1.11.39\\htmlagilitypack.1.11.39.nupkg.sha512"
+  ],
+  "logs": []
+}
